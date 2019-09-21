@@ -1,0 +1,44 @@
+﻿<Window x:Class="CSassignment3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSassignment3"
+        mc:Ignorable="d"
+        Title="Naren's Data Entry Form" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150*"/>
+            <ColumnDefinition Width="375*"/>
+        </Grid.ColumnDefinitions>
+        <!--row 0-->
+        <Label>Name</Label>
+        <TextBox Grid.Column="1" x:Name="TextBoxName"/>
+        <!--row 1-->
+        <Label Grid.Row="1">Residency</Label>
+        <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal" >
+            <RadioButton x:Name="RadioButtonDomestic" IsChecked="True">Domestic</RadioButton>
+            <RadioButton>International</RadioButton>
+        </StackPanel>
+        <!--row 2-->
+        <Label Grid.Row="2">Semester</Label>
+        <ComboBox Grid.Row="2" Grid.Column="1" x:Name="ComboBoxSemester"/>
+        <!--row 3-->
+        <Label Grid.Row="3">Courses</Label>
+        <ListBox Grid.Row="3" Grid.Column="1" Grid.RowSpan="3" x:Name="ListBoxCourses" SelectionMode="Multiple"></ListBox>
+        <!--row 6-->
+        <StackPanel Grid.Row="7" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="20,0,20,0">
+            <Button Click="Button_Click" Content="Clear" Width="200" Margin="10,5,0,5"/>
+            <Button Click="Button_Click_1" Content="Ok" Width="200" Margin="10,5,0,5" HorizontalAlignment="Right"/>
+        </StackPanel>
+    </Grid>
+</Window>

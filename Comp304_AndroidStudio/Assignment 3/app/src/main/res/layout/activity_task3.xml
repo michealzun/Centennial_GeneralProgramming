@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Task3Activity">
+    <LinearLayout
+        android:id="@+id/ButtonRow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="start"
+            android:text="@string/start" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="stop"
+            android:text="@string/stop" />
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/TweenImage"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:background="@drawable/moon"
+        android:contentDescription="@string/clear" />
+
+    <ImageView
+        android:id="@+id/TweenImage2"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:adjustViewBounds="false"
+        android:background="@drawable/earth"
+        android:contentDescription="@string/clear"
+        android:paddingLeft="200sp" />
+
+</LinearLayout>

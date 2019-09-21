@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">YueyangSun_COMP304_Assign5</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="next">Next</string>
+    <string name="pre">Previous</string>
+    <string name="showroom">Select a showroom</string>
+    <string name="location">Select a locations</string>
+    <string-array name="showrooms">
+        <item>The Gap</item>
+        <item>Calvin Klein</item>
+        <item>Adidas</item>
+        <item>Cleo</item>
+        <item>Le Chateau</item>
+        <item>Thursdays</item>
+    </string-array>
+    <string-array name="locations">
+        <item>York</item>
+        <item>Scarborough</item>
+        <item>Etobicoke</item>
+        <item>North York</item>
+        <item>East York</item>
+        <item>Toronto</item>
+    </string-array>
+</resources>

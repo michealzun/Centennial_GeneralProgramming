@@ -1,0 +1,16 @@
+H:\CSassignment3\CSassignment3\obj\Debug\CSassignment3.csprojResolveAssemblyReference.cache
+H:\CSassignment3\CSassignment3\obj\Debug\MainWindow.g.cs
+H:\CSassignment3\CSassignment3\obj\Debug\App.g.cs
+H:\CSassignment3\CSassignment3\obj\Debug\CSassignment3_MarkupCompile.cache
+H:\CSassignment3\CSassignment3\obj\Debug\CSassignment3_MarkupCompile.lref
+H:\CSassignment3\CSassignment3\bin\Debug\CSassignment3.exe.config
+H:\CSassignment3\CSassignment3\bin\Debug\CSassignment3.exe
+H:\CSassignment3\CSassignment3\bin\Debug\CSassignment3.pdb
+H:\CSassignment3\CSassignment3\obj\Debug\App.baml
+H:\CSassignment3\CSassignment3\obj\Debug\MainWindow.baml
+H:\CSassignment3\CSassignment3\obj\Debug\CSassignment3.g.resources
+H:\CSassignment3\CSassignment3\obj\Debug\CSassignment3.Properties.Resources.resources
+H:\CSassignment3\CSassignment3\obj\Debug\CSassignment3.csproj.GenerateResource.Cache
+H:\CSassignment3\CSassignment3\obj\Debug\CSassignment3.csproj.CoreCompileInputs.cache
+H:\CSassignment3\CSassignment3\obj\Debug\CSassignment3.exe
+H:\CSassignment3\CSassignment3\obj\Debug\CSassignment3.pdb

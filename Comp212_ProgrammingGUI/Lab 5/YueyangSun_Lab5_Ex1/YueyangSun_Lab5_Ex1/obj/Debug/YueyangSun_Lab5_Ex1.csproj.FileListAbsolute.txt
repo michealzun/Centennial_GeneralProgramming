@@ -1,0 +1,9 @@
+H:\c# gui\YueyangSun_Lab5\YueyangSun_Lab5_Ex1\YueyangSun_Lab5_Ex1\bin\Debug\YueyangSun_Lab5_Ex1.exe.config
+H:\c# gui\YueyangSun_Lab5\YueyangSun_Lab5_Ex1\YueyangSun_Lab5_Ex1\bin\Debug\YueyangSun_Lab5_Ex1.exe
+H:\c# gui\YueyangSun_Lab5\YueyangSun_Lab5_Ex1\YueyangSun_Lab5_Ex1\bin\Debug\YueyangSun_Lab5_Ex1.pdb
+H:\c# gui\YueyangSun_Lab5\YueyangSun_Lab5_Ex1\YueyangSun_Lab5_Ex1\obj\Debug\YueyangSun_Lab5_Ex1.csprojResolveAssemblyReference.cache
+H:\c# gui\YueyangSun_Lab5\YueyangSun_Lab5_Ex1\YueyangSun_Lab5_Ex1\obj\Debug\YueyangSun_Lab5_Ex1.Form1.resources
+H:\c# gui\YueyangSun_Lab5\YueyangSun_Lab5_Ex1\YueyangSun_Lab5_Ex1\obj\Debug\YueyangSun_Lab5_Ex1.Properties.Resources.resources
+H:\c# gui\YueyangSun_Lab5\YueyangSun_Lab5_Ex1\YueyangSun_Lab5_Ex1\obj\Debug\YueyangSun_Lab5_Ex1.csproj.GenerateResource.Cache
+H:\c# gui\YueyangSun_Lab5\YueyangSun_Lab5_Ex1\YueyangSun_Lab5_Ex1\obj\Debug\YueyangSun_Lab5_Ex1.exe
+H:\c# gui\YueyangSun_Lab5\YueyangSun_Lab5_Ex1\YueyangSun_Lab5_Ex1\obj\Debug\YueyangSun_Lab5_Ex1.pdb

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">YueyangSun_COMP304_Assignment4</string>
+    <string name="next">next</string>
+    <string name="register">register</string>
+    <string name="adminLogin">admin login</string>
+    <string name="seekerLogin">seeker login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="firstName">first name</string>
+    <string name="lastName">last name</string>
+    <string name="address">address</string>
+    <string name="city">city</string>
+    <string name="postal">postal</string>
+    <string name="qualification">qualification</string>
+    <string name="experience">experience</string>
+    <string name="ps">ps: use admin 123 for admin login, rock 123 for seeker login</string>
+    <string name="viewOffers">view offers</string>
+    <string name="viewSeekers">View All Seekers</string>
+    <string name="deleteeeker">Delete Seeker</string>
+    <string name="edit">edit</string>
+    <string name="editOffers">add/edit offers</string>
+    <string name="offerid">Offer ID (leave this if adding new offer)</string>
+    <string name="interviewDate">interview date</string>
+    <string name="interviewStatus">interview status</string>
+    <string name="enterName">enter the name of the seeker you wish to delete(only use this if you have 6+ month)</string>
+    <string name="delete">delete</string>
+    <string name="title_activity_new_offer">NewOfferActivity</string>
+    <string name="newOffer">Add New Offer</string>
+    <string name="editOffer">Edit Existing Offer</string>
+    <string name="interview_date">Interview date</string>
+    <string name="interview_status">interview status</string>
+    <string name="company">company</string>
+    <string name="position">position</string>
+    <string name="recruitment_status">recruitment status</string>
+</resources>

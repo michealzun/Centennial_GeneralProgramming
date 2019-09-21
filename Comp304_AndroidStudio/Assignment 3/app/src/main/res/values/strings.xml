@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">YueyangSun_COMP304_Assign3</string>
+    <string name="selectTask">Select a task</string>
+    <string name="lineThickness">line thickness\t\t - \t\tline color\t\t - \t\tarrow key</string>
+    <string name="clear">clear</string>
+    <string name="stop">stop</string>
+    <string name="start">start</string>
+    <string name="back">back</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="yellow">yellow</string>
+    <string-array name="tasks">
+        <item>task1</item>
+        <item>task2</item>
+        <item>task3</item>
+    </string-array>
+    <string-array name="sizes">
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </string-array>
+
+</resources>

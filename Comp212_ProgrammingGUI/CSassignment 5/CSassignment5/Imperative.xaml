@@ -1,0 +1,14 @@
+﻿<Window x:Class="CSassignment5.Imperative"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSassignment5"
+        mc:Ignorable="d"
+        Title="Imperative" Height="300" Width="300">
+    <StackPanel>
+        <TextBlock Text="Source(slider) and target(textbox) are updated"/>
+        <Slider x:Name="slideSource" Value="35" Maximum="100" ValueChanged="slideSource_ValueChanged"/>
+        <TextBox x:Name="textboxSource" Text="35" TextChanged="textboxSource_TextChanged"/>
+    </StackPanel>
+</Window>

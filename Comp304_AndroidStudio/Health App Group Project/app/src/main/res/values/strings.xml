@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HealthApp</string>
+    <string name="start">start</string>
+    <string name="calcute">calcute</string>
+    <string name="send">send as message</string>
+    <string name="intro">Welcome to YnV Health Checkup</string>
+    <string name="age">age: </string>
+    <string name="sex">sex: </string>
+    <string name="systolic">systolic pressure:</string>
+    <string name="diastolic">diastolic pressure:</string>
+    <string name="m">M</string>
+    <string name="f">F</string>
+    <string name="phone">phone number: </string>
+    <string name="height">height(cm): </string>
+    <string name="weight">weight(kg): </string>
+    <string name="selectLog">select the type of log you want to view </string>
+    <string name="bmi">bmi</string>
+    <string name="bloodPressure">blood pressure</string>
+</resources>

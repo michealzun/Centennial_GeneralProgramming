@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YueYangSun_COMP304Lab1_Assignment2</string>
+    <string name="name">name: </string>
+    <string name="program">program: </string>
+    <string name="semester">semester: </string>
+    <string name="course">course: </string>
+    <string name="name_field">YueYangSun</string>
+    <string name="program_field">comp3109</string>
+    <string name="semester_field">semester5</string>
+    <string name="course_field">comp304</string>
+    <string name="send">send</string>
+    <string name="hint">hint</string>
+</resources>

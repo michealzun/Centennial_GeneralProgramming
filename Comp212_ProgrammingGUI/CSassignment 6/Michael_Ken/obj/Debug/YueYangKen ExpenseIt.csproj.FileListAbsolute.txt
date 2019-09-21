@@ -1,0 +1,20 @@
+H:\comp212\Michael_Ken\Michael_Ken\bin\Debug\Michael_Ken.exe.config
+H:\comp212\Michael_Ken\Michael_Ken\bin\Debug\Michael_Ken.exe
+H:\comp212\Michael_Ken\Michael_Ken\bin\Debug\Michael_Ken.pdb
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\YueYangKen ExpenseIt.csprojResolveAssemblyReference.cache
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\MainWindow.g.cs
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\pgExpenseItHome.g.cs
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\pgExpenseReportPage.g.cs
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\App.g.cs
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\Michael_Ken_MarkupCompile.cache
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\Michael_Ken_MarkupCompile.lref
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\MainWindow.baml
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\pgExpenseItHome.baml
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\pgExpenseReportPage.baml
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\Michael_Ken.g.resources
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\Michael_Ken.Properties.Resources.resources
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\YueYangKen ExpenseIt.csproj.GenerateResource.Cache
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\YueYangKen ExpenseIt.csproj.CoreCompileInputs.cache
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\Michael_Ken.exe
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\Michael_Ken.pdb
+H:\comp212\Michael_Ken\Michael_Ken\obj\Debug\App.baml

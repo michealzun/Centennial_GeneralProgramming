@@ -1,0 +1,7 @@
+C:\Users\micheal\Desktop\YueyangSun_Lab5\YueyangSun_Lab5\YueyangSun_Lab5_Ex4\YueyangSun_Lab5_Ex4\bin\Debug\YueyangSun_Lab5_Ex4.exe.config
+C:\Users\micheal\Desktop\YueyangSun_Lab5\YueyangSun_Lab5\YueyangSun_Lab5_Ex4\YueyangSun_Lab5_Ex4\bin\Debug\YueyangSun_Lab5_Ex4.exe
+C:\Users\micheal\Desktop\YueyangSun_Lab5\YueyangSun_Lab5\YueyangSun_Lab5_Ex4\YueyangSun_Lab5_Ex4\bin\Debug\YueyangSun_Lab5_Ex4.pdb
+C:\Users\micheal\Desktop\YueyangSun_Lab5\YueyangSun_Lab5\YueyangSun_Lab5_Ex4\YueyangSun_Lab5_Ex4\obj\Debug\YueyangSun_Lab5_Ex4.csprojResolveAssemblyReference.cache
+C:\Users\micheal\Desktop\YueyangSun_Lab5\YueyangSun_Lab5\YueyangSun_Lab5_Ex4\YueyangSun_Lab5_Ex4\obj\Debug\YueyangSun_Lab5_Ex4.csproj.CoreCompileInputs.cache
+C:\Users\micheal\Desktop\YueyangSun_Lab5\YueyangSun_Lab5\YueyangSun_Lab5_Ex4\YueyangSun_Lab5_Ex4\obj\Debug\YueyangSun_Lab5_Ex4.exe
+C:\Users\micheal\Desktop\YueyangSun_Lab5\YueyangSun_Lab5\YueyangSun_Lab5_Ex4\YueyangSun_Lab5_Ex4\obj\Debug\YueyangSun_Lab5_Ex4.pdb

@@ -1,0 +1,5 @@
+H:\c# gui\YueyangSun_Lab4_Library\YueyangSun_Lab4_Library\bin\Release\YueyangSun_Lab4_Library.dll.config
+H:\c# gui\YueyangSun_Lab4_Library\YueyangSun_Lab4_Library\bin\Release\YueyangSun_Lab4_Library.dll
+H:\c# gui\YueyangSun_Lab4_Library\YueyangSun_Lab4_Library\bin\Release\YueyangSun_Lab4_Library.pdb
+H:\c# gui\YueyangSun_Lab4_Library\YueyangSun_Lab4_Library\obj\Release\YueyangSun_Lab4_Library.dll
+H:\c# gui\YueyangSun_Lab4_Library\YueyangSun_Lab4_Library\obj\Release\YueyangSun_Lab4_Library.pdb

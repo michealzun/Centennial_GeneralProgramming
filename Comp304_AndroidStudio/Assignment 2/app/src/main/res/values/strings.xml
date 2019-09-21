@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">YueyangSun_COMP304_Assign2</string>
+    <string name="hint"> </string>
+    <string name="entry">enter</string>
+    <string name="cuisineSelect">select a cuisine</string>
+    <string name="next">next</string>
+    <string name="pre">back</string>
+    <string name="cuisine1">local</string>
+    <string name="cuisine2">english</string>
+    <string name="cuisine3">chinese</string>
+    <string name="select">please select restaurant using menu ^</string>
+    <string name="noselect">please order something before pressing next</string>
+    <string name="warning">please fill in all the fields</string>
+    <string-array name="StakeHouse">
+        <item>pork back rib</item>
+        <item>rib steak</item>
+    </string-array>
+    <string-array name="SuperBurger">
+        <item>chicken burger</item>
+        <item>beef burger</item>
+    </string-array>
+    <string-array name="AbbotCastle">
+        <item>mashed potato</item>
+        <item>eggs benedict</item>
+    </string-array>
+    <string-array name="TheFireplace">
+        <item>fish and chip</item>
+        <item>fries</item>
+    </string-array>
+    <string-array name="WongsBento">
+        <item>sweet and sour pork</item>
+        <item>dumpling</item>
+    </string-array>
+    <string-array name="PheonixNight">
+        <item>mapo tofu</item>
+        <item>general tso chicken</item>
+    </string-array>
+    <string name="name">name: </string>
+    <string name="address">address: </string>
+    <string name="card">credit card number: </string>
+    <string name="expire">expiry date: </string>
+    <string name="favRest">favorite restaurant: </string>
+    <string name="favFood">favorite food: </string>
+</resources>
